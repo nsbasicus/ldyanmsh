@@ -8,5 +8,10 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "i2p": "^3.0.5",
+    "socket.io": "^2.2.0"
+  }
 }
