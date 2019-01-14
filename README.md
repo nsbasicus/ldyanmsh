@@ -1,1 +1,1 @@
-# Initial commit - LdyAnmush website and server 
+# Initial commit - ldyanmsh - website and server 
